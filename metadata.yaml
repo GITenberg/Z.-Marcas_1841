@@ -1,0 +1,67 @@
+_repo: Z.-Marcas_1841
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Bell, Clara
+    birthdate: 1834
+    deathdate: 1927
+    gutenberg_agent_id: '1801'
+    url: http://www.gutenberg.org/2009/agents/1801
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - De Balzac, Honoré
+    - Saint-Aubin, Horace de
+    - Balzac, H. de (Honoré de)
+    - Balzac, Honore de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+description: "Z. Marcas is a novelette by French author Honoré de Balzac first published\
+  \ in 1840. Set in contemporary Paris, it describes the rise and fall of a brilliant\
+  \ political strategist who is abandoned by the politicians he helps into power.\
+  \ Destitute and forgotten, he befriends a pair of students who live next door to\
+  \ him in a boarding-house. The story follows their many discussions about the political\
+  \ situation in France.\nBalzac was inspired to write the story after he spotted\
+  \ the name \"Z. Marcas\" on a sign for a tailor's shop in Paris. It was published\
+  \ in July 1840, in the Revue Parisienne, a magazine he had founded that year. One\
+  \ year later it appeared in a collection from various authors under the title La\
+  \ Mort d'un ambitieux (\"The Death of an Ambitious Man\"). Balzac later placed it\
+  \ in the Scènes de la vie politique section of his vast novel sequence La Comédie\
+  \ humaine.\nAlthough Z. Marcas features characters from other Balzac stories and\
+  \ elements of literary realism – both hallmarks of Balzac's style – it is remembered\
+  \ primarily for its political themes. Balzac, a legitimist, believed that France's\
+  \ lack of bold leadership had led to mediocrity and ruin, and that men of quality\
+  \ were being ignored or worse. He maintained that the youth of France were in danger\
+  \ of being abandoned by the government, and predicted unrest in the years to come.\n\
+  The story also explores Balzac's conviction that a person's name is a powerful indicator\
+  \ of his or her destiny, an idea he drew from the work of Laurence Sterne. The title\
+  \ character, with his keen intellect, is based on Balzac's conception of himself:\
+  \ a visionary genius who fails to achieve his true potential because of less talented\
+  \ individuals with more social power.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1841'
+  wikidata: Q3107447
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- Translations into English'
+- !lcc 'PQ'
+- GITenberg
+title: Z. Marcas
+url: http://www.gutenberg.org/ebooks/1841
+wikipedia:
+- https://fr.wikipedia.org/wiki/Z._Marcas
+- https://en.wikipedia.org/wiki/Z._Marcas
+- https://pl.wikipedia.org/wiki/Z._Marcas
+- https://es.wikipedia.org/wiki/Z._Marcas
+- https://pt.wikipedia.org/wiki/Z._Marcas
